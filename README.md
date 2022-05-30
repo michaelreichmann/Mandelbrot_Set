@@ -13,6 +13,6 @@ The controls are:<br/>
 **color**: changes the colors<br/>
 
 The result looks like this:<br/>
-![Resulting image](/picture/Mandelbrot_set.png)
+![Resulting image](/picture/Mandelbrot_Set.png)
 
 It is inspired by this video by [The Art Of Code](https://www.youtube.com/watch?v=6IWXkV82oyY).
